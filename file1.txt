@@ -1,1 +1,1 @@
-GitHub Copilot is an AI coding assistant developed by GitHub and OpenAI that helps developers write code faster and smarter by providing code suggestions, completions, and explanations, all while integrated with popular IDEs and GitHub. 
+New Content 
